@@ -45,7 +45,7 @@
 <body>
 <div class="header">
 	<div class="logo">
-		
+		<br>
 		<img src="amav.png" width="150">
 	</div>
 	<h1>Amiel Villero</h1>
