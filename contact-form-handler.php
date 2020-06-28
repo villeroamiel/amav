@@ -41,7 +41,7 @@ $headers .= "Reply-To: $email_address";
 if (mail($to,$email_subject,$email_body,$headers))
 {
 	echo "Message accepted.";
-	header('Location: index.php');
+	header('Location: index.html');
 }
 else
 {
